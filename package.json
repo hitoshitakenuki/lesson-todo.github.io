@@ -3,6 +3,13 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  
+  "engines": {
+    "node": "15.x",
+    "npm": "6.x.x"
+  },
+
+
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -15,4 +22,6 @@
     "mysql": "^2.18.1",
     "tedious": "^13.1.0"
   }
+
+  
 }
